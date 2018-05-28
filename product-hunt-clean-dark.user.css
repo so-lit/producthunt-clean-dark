@@ -39,10 +39,7 @@ a:hover {
 	color: rgb(204, 204, 204);
 }
 
-/*fixed highlighed main*/
-.link_523b9:hover {
-    background-color: rgb(54, 54, 54) !important;
-}
+
 
 /*clicked link box shadow*/
 .contentBackground_bc644 {
@@ -73,5 +70,11 @@ button {
 .input_277cf {
     color: rgb(204, 204, 204) !important;
     background-color: rgb(54, 54, 54)  !important;
+}
+
+/*fixed highlighed main*/
+.link_523b9:hover {
+    border: 1px solid rgb(204, 204, 204)  !important;
+    border-radius: 3px !important;
 }
 }
